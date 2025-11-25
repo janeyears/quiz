@@ -1,0 +1,129 @@
+{
+	"questions": [
+		{
+			"question": "Which of the following is a valid C data type?",
+			"answers": ["integer", "int", "number"],
+			"correct_index": 1
+		},
+		{
+			"question": "What is the correct way to declare a pointer?",
+			"answers": ["int *p;", "int p*;", "*int p;"],
+			"correct_index": 0
+		},
+		{
+			"question": "Which header file is needed for printf()?",
+			"answers": ["<stdlib.h>", "<stdio.h>", "<string.h>"],
+			"correct_index": 1
+		},
+		{
+			"question": "What is the output type of strlen()?",
+			"answers": ["int", "size_t", "long"],
+			"correct_index": 1
+		},
+		{
+			"question": "Which operator is used to access members of a struct through a pointer?",
+			"answers": [".", "->", "&"],
+			"correct_index": 1
+		},
+		{
+			"question": "Which keyword is used to define a constant in C?",
+			"answers": ["static", "const", "constant"],
+			"correct_index": 1
+		},
+		{
+			"question": "What does malloc() return on failure?",
+			"answers": ["0", "NULL", "-1"],
+			"correct_index": 1
+		},
+		{
+			"question": "Which loop always executes at least once?",
+			"answers": ["for loop", "while loop", "do-while loop"],
+			"correct_index": 2
+		},
+		{
+			"question": "What is the size of a char in C?",
+			"answers": ["1 byte", "2 bytes", "4 bytes"],
+			"correct_index": 0
+		},
+		{
+			"question": "Which of the following is not a storage class?",
+			"answers": ["static", "register", "constant"],
+			"correct_index": 2
+		},
+		{
+			"question": "Which symbol is used to start a preprocessor directive?",
+			"answers": ["@", "#", "$"],
+			"correct_index": 1
+		},
+		{
+			"question": "Which function is used to compare two strings?",
+			"answers": ["strcpy()", "strcmp()", "strcat()"],
+			"correct_index": 1
+		},
+		{
+			"question": "What is the return type of malloc()?",
+			"answers": ["void*", "int*", "char*"],
+			"correct_index": 0
+		},
+		{
+			"question": "Which operator has the highest precedence?",
+			"answers": ["*", "++", "&&"],
+			"correct_index": 1
+		},
+		{
+			"question": "Which of these is a valid comment in C?",
+			"answers": ["# comment", "// comment", "-- comment"],
+			"correct_index": 1
+		},
+		{
+			"question": "What is the default value of an uninitialized local variable?",
+			"answers": ["0", "garbage value", "NULL"],
+			"correct_index": 1
+		},
+		{
+			"question": "Which keyword is used to exit a loop?",
+			"answers": ["break", "stop", "quit"],
+			"correct_index": 0
+		},
+		{
+			"question": "Which function is used to free allocated memory?",
+			"answers": ["delete()", "destroy()", "free()"],
+			"correct_index": 2
+		},
+		{
+			"question": "Which format specifier is used for printing an integer?",
+			"answers": ["%c", "%d", "%s"],
+			"correct_index": 1
+		},
+		{
+			"question": "What is the correct file extension for C source files?",
+			"answers": [".cpp", ".c", ".h"],
+			"correct_index": 1
+		},
+		{
+			"question": "Which operator is used to get the address of a variable?",
+			"answers": ["*", "&", "%"],
+			"correct_index": 1
+		},
+		{
+			"question": "What is the output of sizeof(int)?",
+			"answers": ["Depends on the system", "Always 4", "Always 2"],
+			"correct_index": 0
+		},
+		{
+			"question": "What is a correct way to start the main function?",
+			"answers": ["main()", "void main()", "int main()"],
+			"correct_index": 2
+		},
+		{
+			"question": "Which function reads a line from stdin?",
+			"answers": ["getline()", "gets()", "scanf()"],
+			"correct_index": 0
+		},
+		{
+			"question": "What is the result of 5 / 2 in C?",
+			"answers": ["2", "2.5", "3"],
+			"correct_index": 0
+		}
+	]
+}
